@@ -1,6 +1,10 @@
 # 2048-Flow-Game
 🧩 A modern 2048 puzzle game controlled by AI-powered hand gestures. Shift tiles with a wave of your hand using MediaPipe and JavaScript.
 
+---
+
+# 🧩 2048: Flow Game
+
 **2048: Flow Game** is an innovative version of the classic 2048 puzzle, where artificial intelligence meets traditional gameplay. Instead of using a keyboard or mouse, you control the game through **hand gestures** in front of your webcam.
 
 <p align="center">
